@@ -70,3 +70,5 @@ def index(request):
     }
     return HttpResponse(template.render(context, request))
 ```
+
+[`Next`](task.md)
