@@ -89,3 +89,5 @@ admin.site.register(Question)
 
 Similarly you can add for choice
 
+
+[`Next`](excersise2.md)
